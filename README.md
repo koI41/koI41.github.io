@@ -1,11 +1,9 @@
-# Personal Profile Website — HTML + CSS only
+# Sujan's Personal Profile Website
 
+Made for Web Technologies IA2
 Files:
 - index.html
 - style.css
+- images
+  
 
-Replace the placeholder text in `index.html` with your own information.
-
-For your profile photograph, put an image named `profile.jpg` in the same folder.
-
-No JavaScript is used.
